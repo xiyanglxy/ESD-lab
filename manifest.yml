@@ -2,8 +2,5 @@
 version: 1
 applications:
 - name: flask-app-m
-docker:
-  image: eugenesweehs/flask-app
-  username: eugenesweehs
 routes:
 - route: flask-app-esweehweishe.apps.smu.hackathon.systems
