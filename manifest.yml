@@ -1,6 +1,6 @@
 ---
 version: 1
 applications:
-- name: flask-app-m
+- name: flask-app
 routes:
 - route: flask-app-esweehweishe.apps.smu.hackathon.systems
